@@ -37,7 +37,7 @@ public class TestGitfour {
     @Test
     public void TestCalc03(){
         int expected = 2+2;
-        int actual = 4;
+        int actual = 5;
         Assert.assertEquals(expected, actual);
     }
 
