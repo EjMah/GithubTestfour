@@ -3,6 +3,8 @@ import org.junit.Test;
 
 public class TestGitfour {
 
+    //Test av github
+
     @Test
     public void Testing01(){
         Assert.assertTrue(true);
